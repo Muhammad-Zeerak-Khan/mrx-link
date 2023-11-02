@@ -15,7 +15,7 @@ A Demo Object Classfication is done to get started with the visualization of the
 bash init_setup.sh
 ```
 
-### 3. Run the jupyter-lab in the default browser and run the pipeline.
+### 3. Run the jupyter-lab in the default browser and run the demo.ipynb file for pipeline visualization.
 
 
 ![Pipeline](https://github.com/Muhammad-Zeerak-Khan/mrx-link/assets/79400407/dd0aa1d1-3821-4be0-b095-716dc6b8dedc)
